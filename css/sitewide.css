@@ -57,8 +57,10 @@ h1{
 	font-family: 'Dancing Script', cursive;
 	font-size: 50px;
 	line-height: 50px;
-	text-decoration: underline;
-	line-height: 50px;
+	border-bottom: 5px solid #470E8C;
+	border-width: 3px;
+	padding-bottom: 0.3em;
+
 }
 
 h2{
