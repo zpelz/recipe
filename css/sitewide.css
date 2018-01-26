@@ -28,7 +28,7 @@ div, main, article, section, aside, hgroup, header, footer, address, nav {
 
 body {
 	font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
-	font-size: 16px;
+	font-size: 20px;
 	line-height: 1.5em;
 	color: #222;
 }
@@ -56,6 +56,8 @@ h1{
 	color: #470E8C;
 	font-family: 'Dancing Script', cursive;
 	font-size: 50px;
+	line-height: 50px;
+	text-decoration: underline;
 	line-height: 50px;
 }
 
@@ -90,14 +92,19 @@ em{
 
 .ingredients{
 	background-color: #D2BAE8;
-	width: 300px;
+	width: 375px;
 	border: 3px solid #eee;
 	border-color: #867794;
 	padding-left: 1em;
 	padding-top: 0.5em;
 	padding-bottom: 0.5em;
 }
-}
+
+.broiled{
+	font-size: 25px;
 }
 
+#top{ 
+	font-family: 'Dancing Script', cursive;
+}
 
